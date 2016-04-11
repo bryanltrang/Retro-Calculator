@@ -16,6 +16,8 @@
 		3C8966D21CBB11C30026A9BA /* retro_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8966D11CBB11C30026A9BA /* retro_calculatorUITests.swift */; };
 		3C8966E01CBB24E00026A9BA /* Minecrafter.Reg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3C8966DF1CBB24E00026A9BA /* Minecrafter.Reg.ttf */; };
 		3C8966E21CBB2D4C0026A9BA /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3C8966E11CBB2D4B0026A9BA /* btn.wav */; };
+		3C8966E31CBB82980026A9BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C8966BA1CBB11C20026A9BA /* LaunchScreen.storyboard */; };
+		3C8966E41CBB82980026A9BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C8966BA1CBB11C20026A9BA /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -250,6 +252,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C8966E31CBB82980026A9BA /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +260,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C8966E41CBB82980026A9BA /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

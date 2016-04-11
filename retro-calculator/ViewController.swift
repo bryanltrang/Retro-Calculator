@@ -20,10 +20,6 @@ class ViewController: UIViewController {
     }
     
     @IBOutlet weak var outputlbl: UILabel!
-    @IBOutlet weak var launchTitle: UIImage!
-    @IBOutlet weak var launchShip: UIImage!
-    @IBOutlet weak var launchBG: UIImage!
-    @IBOutlet weak var launchFloor: UIImage!
     
     var buttonSound: AVAudioPlayer!
     
